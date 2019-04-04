@@ -1,0 +1,54 @@
+print("") - This will print out whatever in the parenthesis and quotes must have a "print" in front of it to work
+
+# This is an octothorpe and this will not appear when you run the code and it can also disable 
+
++ is addition
+- is substract
+/ is divide
+* is multiply
+% is mod and it means to find the remainder
+< is less than
+> is greater then
+<= less or equal
+>= greater or equal
+
+x = 100 # Variable 
+y = 200 >>>>>>>>>> x - y # You can substract variables and do more with them
+
+end1 + end2 # Will add what ever you put end1 = to the end of the code, the very end
+
+{} # Defines a variable when your in an f string
+
+""" allows you to type as many lines as you want 
+
+\n = Sets a new line """
+
+\t = indents 
+
+\\ = let you use backslash in a sentence
+
+input() = # Makes you type an answer and it will put it in to the code ex. age = input() you would want to put your age if it ask you how old you are
+
+end = ' ' # Where your answer would appear at the end of the code
+
+print(f" ") # f string allows you to put more than one variable in one print line
+
+from sys import argv = imports argv to the bash console so you can run the code in bash
+
+open() = This will open a text file 
+
+target.truncate = Shorten the file size
+
+target.close() = Will close the file and you wont be able to do anything else to the file
+
+; = Allows you to add more code in one line (put it at the end of every code) # Ex. print("Hello"); print("Wow")
+
+def = Define a function for it to works
+
+arg = argument and get passed on as a function
+
+f.seek(0) = Beginning point of the file
+f seek(1) = Current file position
+f.seek(2) = End of the file
+
+{} - Indicates that its a variable in the string

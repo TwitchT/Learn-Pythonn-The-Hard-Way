@@ -2,7 +2,7 @@
 
 # I am creating a variable
 days = "Mon Tue Wed Thu Fri Sat Sun"
-# Creating another variable
+# Creating anoter variable
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 # This will print out the days by using the variable "days" to make it say all of the day for the week
 print("Here are the days: ", days)
