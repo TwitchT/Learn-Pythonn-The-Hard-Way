@@ -1,3 +1,5 @@
+# You Can't run this code
+# This is just to refresh my memory.
 print("") - This will print out whatever in the parenthesis and quotes must have a "print" in front of it to work
 
 # This is an octothorpe and this will not appear when you run the code and it can also disable 
