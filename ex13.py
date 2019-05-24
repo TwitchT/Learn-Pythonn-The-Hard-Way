@@ -15,3 +15,6 @@ print("Your second variable is called:", second)
 print("Your third variable is called:", third)
 # It tells me that there is too many values to unpack
 #print("Your fourth variable is called:", fourth)
+
+# One study drill
+# The errors says "not enough values to unpack "
