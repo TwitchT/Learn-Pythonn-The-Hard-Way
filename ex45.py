@@ -146,6 +146,9 @@ class  Cathedral(Scene):
                 
             return 'UniverseDestroyed'
         
+        else:
+            print("Try again")
+            return 'Cathedral'
     
 class UniverseDestroyed(Scene):
     
@@ -177,7 +180,7 @@ class UniverseDestroyed(Scene):
                 """))
                 
             return 'death'
-    
+
 class Finished(Scene):
     
     def enter(self):
